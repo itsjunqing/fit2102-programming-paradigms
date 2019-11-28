@@ -1,0 +1,20 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "cake.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "cake.mzc",
+        "cake.mzn",
+        "cake_generic.mzc",
+        "cake_generic.mzn",
+        "data_generic.dzn"
+    ],
+    "projectSolverConfigs": [
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.1.1",
+    "version": 105
+}

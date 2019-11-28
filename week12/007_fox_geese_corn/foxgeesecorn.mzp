@@ -1,0 +1,29 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "foxgeesecorn.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "data/fgc_01_01_01_00.dzn",
+        "data/fgc_05_05_05_00.dzn",
+        "data/fgc_06_07_08_00.dzn",
+        "data/fgc_06_07_20_00.dzn",
+        "data/fgc_06_26_08_00.dzn",
+        "data/fgc_08_08_08_00.dzn",
+        "data/fgc_08_08_09_00.dzn",
+        "data/fgc_10_10_12_00.dzn",
+        "data/fgc_10_10_12_01.dzn",
+        "data/fgc_20_20_22_00.dzn",
+        "data/fgc_21_06_22_00.dzn",
+        "data/fgc_50_50_50_00.dzn",
+        "foxgeesecorn.mzc",
+        "foxgeesecorn.mzn"
+    ],
+    "projectSolverConfigs": [
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.1.1",
+    "version": 105
+}

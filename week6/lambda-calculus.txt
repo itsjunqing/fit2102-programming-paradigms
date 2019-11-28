@@ -1,0 +1,11 @@
+FROM RIGHT HAND SIDE
+(\xy.(\abc.abc) x (\uv.u) y) (\wz.z) (\wz.w)
+= (\y. (\abc.abc) (\wz.z) (\uv.u) y) (\wz.w)
+= (\abc.abc) (\wz.z) (\uv.u) (\wz.w)
+= (\wz.z) (\uv.u) (\wz.w)
+= (\wz.w)
+
+FROM LEFT HAND SIDE
+(\xy . x (\uv.u) y) (\wz.z) (\wz.w)
+= (\wz.z) (\uv.u) (\wz.w)
+= (\wz.w)

@@ -1,0 +1,26 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "thisiseasy.mzn",
+        "smm.mzn",
+        "mzn.mzn",
+        "most.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "most.mzc",
+        "most.mzn",
+        "mzn.mzc",
+        "mzn.mzn",
+        "smm.mzc",
+        "smm.mzn",
+        "thisiseasy.mzc",
+        "thisiseasy.mzn"
+    ],
+    "projectSolverConfigs": [
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.1.1",
+    "version": 105
+}

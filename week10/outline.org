@@ -1,0 +1,65 @@
+* Introduction
+* Recap of previous weeks
+** Functor
+** Applicative
+* Computational contexts
+** These are all "computational contexts"
+** Maybe, List, IO
+*** Maybe: computation that can fail
+*** List: computation that can give many answers
+*** State: computation that reads/writes some state value
+* What we can already do with these
+** Map over them (Functor's fmap)
+** Combine them, in a limited way
+* Introducing IO as Functor and Applicative
+** IO - computation that requires "the outside world"
+** Using Functor and Applicative with IO
+** io1.hs
+** io2.hs
+* What we can't do with only Functor and Applicative
+** maybe1.hs
+** io3.hs
+* Introducing the bind operator
+** Solves our earlier problems
+** Let's chain some stuff together
+** maybe2.hs
+* Do notation
+** io4.hs
+** maybe3.hs
+** Which is better? Depends.
+* The Monad typeclass
+** return
+** >>=
+** >>
+** fail (indeed)
+** Alternative definitions
+*** >=>
+*** join
+* The Monad laws
+** laws1.hs
+* IO Fun
+** io5.hs
+
+* To learn more
+** LYAH chapter on monads
+** "You could have invented monads"
+** Typeclassopedia: https://wiki.haskell.org/Typeclassopedia
+** Look at what's available in Control.Monad
+
+
+- introducing myself
+- recap of Functor, Applicative
+- example of when you need Monad (because Applicative isn't powerful enough)
+- definition of Monad, >>=, join, >=>, >>
+- examples of instances of Monad: Maybe, List, IO
+  + how do notation is just >>= underneath
+  + something about 'guard', since it's often practically useful
+- lots of examples with IO
+  + reading files
+  + reading and writing standard input and output
+  + measuring time
+  + weird stuff with IO and laziness
+- useful stuff in Control.Monad
+- another example: Random
+- other monads: State, (maybe) Reader, (maybe) Writer
+

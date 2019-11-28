@@ -1,0 +1,17 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "map_australia.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "map_australia.mzc",
+        "map_australia.mzn"
+    ],
+    "projectSolverConfigs": [
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.1.1",
+    "version": 105
+}

@@ -1,0 +1,22 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "oss.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "data/data1.dzn",
+        "data/data2.dzn",
+        "data/data3.dzn",
+        "data/data4.dzn",
+        "data/data5.dzn",
+        "oss.mzc",
+        "oss.mzn"
+    ],
+    "projectSolverConfigs": [
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.1.1",
+    "version": 105
+}

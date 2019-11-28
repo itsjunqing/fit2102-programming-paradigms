@@ -1,0 +1,27 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "nurse_rostering.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "01.dzn",
+        "02.dzn",
+        "03.dzn",
+        "04.dzn",
+        "05.dzn",
+        "06.dzn",
+        "07.dzn",
+        "08.dzn",
+        "09.dzn",
+        "10.dzn",
+        "nurse_rostering.mzc",
+        "nurse_rostering.mzn"
+    ],
+    "projectSolverConfigs": [
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.1.1",
+    "version": 105
+}
