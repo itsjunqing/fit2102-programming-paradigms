@@ -15,4 +15,4 @@ All information in the notes are written by me without the endorsement of Monash
 <br>
 Copyright (c) 2019 Jun Qing Lim
 <br>
-The content of this repository is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Permits any use subject to providing credit and license notice, commonly used for media assets and educational materials. See LICENSE for more information.
+The content of this repository is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Permits any use subject to providing credit and license notice, commonly used for media assets and educational materials. See [LICENSE](/LICENSE) for more information.
